@@ -9,5 +9,5 @@ Used boostrap components:
 6. collapse
 7. porgress
 8. toasts
-9.badge
-10.accordion
+9. badge
+10. accordion
